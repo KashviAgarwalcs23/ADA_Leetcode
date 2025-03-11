@@ -15,8 +15,17 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
