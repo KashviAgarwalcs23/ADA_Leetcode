@@ -60,4 +60,20 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
