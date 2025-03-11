@@ -42,4 +42,16 @@
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
