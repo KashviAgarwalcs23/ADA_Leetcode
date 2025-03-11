@@ -8,11 +8,13 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0232-implement-queue-using-stacks) |
