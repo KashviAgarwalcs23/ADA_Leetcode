@@ -28,4 +28,13 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2195-time-needed-to-buy-tickets](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Array
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/KashviAgarwalcs23/ADA_Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
